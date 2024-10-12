@@ -12,7 +12,7 @@ body {
 
 @font-face {
     font-family: pixel-font;
-    src: url(.docs/assets/fonts/arcadeclassic.regular.ttf);
+    src: url(docs/assets/fonts/arcadeclassic.regular.ttf);
 }
 
 #game {
@@ -87,7 +87,7 @@ body {
     position: absolute;
     width: 30px;
     height: 30px;
-    background: url(.docs/assets/img/pacman_eat.jpg) 0px 0px;
+    background: url(docs/assets/img/pacman_eat.jpg) 0px 0px;
     z-index: 1;
 }
 
@@ -95,7 +95,7 @@ body {
     position: absolute;
     width: 35px;
     height: 30px;
-    background: url(.docs/assets/img/ghost_sprites.png) 0px 0px;
+    background: url(docs/assets/img/ghost_sprites.png) 0px 0px;
 }
 
 #game-result {
